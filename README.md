@@ -27,7 +27,7 @@ Get a free key at https://console.groq.com/keys, then create a file named `.env`
 ```
 GROQ_API_KEY=your_actual_key_here
 ```
-(`.env.example` shows the format. Never commit your real `.env` to GitHub.)
+
 
 ### 3. Run
 ```bash
