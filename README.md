@@ -18,7 +18,7 @@ A simple RAG (Retrieval-Augmented Generation) app. Upload a PDF, ask questions, 
 ```bash
 python -m venv venv
 venv\Scripts\activate          # Windows  (Mac/Linux: source venv/bin/activate)
-pip install -r requirements.txt
+pip install add streamlit langchain langchain-core langchain-community langchain-groq langchain-chroma langchain-huggingface langchain-text-splitters chromadb pypdf sentence-transformers python-dotenv
 ```
 
 ### 2. Add your API key (`.env`)
